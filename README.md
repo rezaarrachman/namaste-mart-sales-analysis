@@ -4,7 +4,7 @@ Studi kasus analytics retail Data Cleaning (SQL/BigQuery), eksplorasi data, dan 
 
 **[Lihat dashboard interaktif →](https://datastudio.google.com/reporting/4948e125-8ec7-422c-ae16-12654452ae15)**
 
-**[Baca studi kasus lengkap (rumusan masalah, metodologi, temuan, rekomendasi) →](https://docs.google.com/document/d/1CSIrcAiFEJiRiMFCg6VQqv2Q__tlGXdKUmLi6VhNz0U/edit?usp=sharing)**
+**[Baca studi kasus lengkap (rumusan masalah, metodologi, temuan, rekomendasi) →](https://drive.google.com/file/d/1l3-CtfK1Pk7Pf31JH1dzyv7SDQrvFPCW/view?usp=sharing)**
 
 ---
 
@@ -13,11 +13,11 @@ Studi kasus analytics retail Data Cleaning (SQL/BigQuery), eksplorasi data, dan 
 Project ini menganalisis ±4.300 transaksi retail (2020–2024) untuk menjawab: *kategori mana yang menyumbang revenue dan profit terbesar, apakah strategi diskon saat ini efektif, dan di mana revenue banyak hilang akibat retur/pembatalan?*
 
 **Temuan utama:**
-- Electronics menyumbang revenue terbesar (231,3 juta) namun memiliki profit margin terendah (±12,05%) di antara semua kategori.
+- Electronics menyumbang revenue terbesar (110,1 juta) namun memiliki profit margin terendah (±11,92%) di antara semua kategori.
 - Diskon yang lebih besar tidak meningkatkan rata-rata nilai transaksi. Nilai transaksi tertinggi justru terjadi saat *tanpa* diskon.
 - 47,2 juta (±20% dari total revenue) hilang akibat retur/pembatalan, dengan tingkat retur yang konsisten di semua kategori dan metode pembayaran (mengindikasikan masalah sistemik, bukan masalah produk tertentu).
 
-Lihat [studi kasus lengkap](https://docs.google.com/document/d/1CSIrcAiFEJiRiMFCg6VQqv2Q__tlGXdKUmLi6VhNz0U/edit?usp=sharing) untuk metodologi, seluruh temuan, dan rekomendasi.
+Lihat [studi kasus lengkap](https://drive.google.com/file/d/1l3-CtfK1Pk7Pf31JH1dzyv7SDQrvFPCW/view?usp=sharing) untuk metodologi, seluruh temuan, dan rekomendasi.
 
 ## Struktur Project
 
