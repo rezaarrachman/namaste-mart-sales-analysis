@@ -23,12 +23,12 @@ Lihat [studi kasus lengkap](https://drive.google.com/file/d/1e0XvnDrwNE1Vb66Apwm
 
 | File / Link | Deskripsi |
 |---|---|
-| `raw/retail_sales_dataset.csv` | Dataset mentah asli (±4.310 baris, sengaja dibuat "kotor") |
-| `sql/00_data_quality_check.sql` | Mengecek missing values, duplikasi, dan data tidak valid sebelum cleaning |
-| `sql/01_data_cleaning.sql` | Pipeline pembersihan data: parsing tanggal, dedup, penanganan outlier, imputasi |
-| `sql/02_sales_analysis.sql` | Query analisis utama (revenue, margin, tier diskon, return rate) |
-| Dashboard Looker Studio | Dashboard interaktif. Filter berdasarkan tanggal, wilayah, kategori, metode pembayaran |
-| Dokumen studi kasus | Laporan lengkap: rumusan masalah, proses pembersihan data, temuan, rekomendasi, keterbatasan |
+| [`raw_data/retail_sales_dataset.csv`](./raw_data/retail_sales_dataset.csv) | Dataset mentah asli (±4.310 baris, sengaja dibuat "kotor") |
+| [`sql/00_data_quality_check.sql`](./sql/00_data_quality_check.sql) | Mengecek missing values, duplikasi, dan data tidak valid sebelum cleaning |
+| [`sql/01_data_cleaning.sql`](./sql/01_data_cleaning,sql) | Pipeline pembersihan data: parsing tanggal, dedup, penanganan outlier, imputasi |
+| [`sql/02_sales_analysis.sql`](./sql/02_sales_analysis.sql) | Query analisis utama (revenue, margin, tier diskon, return rate) |
+| [Dashboard Data Studio](https://datastudio.google.com/reporting/4948e125-8ec7-422c-ae16-12654452ae15) | Dashboard interaktif. Filter berdasarkan tanggal, wilayah, kategori, metode pembayaran |
+| [Dokumen studi kasus](https://drive.google.com/file/d/1e0XvnDrwNE1Vb66Apwm6NTPkBd0fegZt/view?usp=sharing) | Laporan lengkap: rumusan masalah, proses pembersihan data, temuan, rekomendasi, keterbatasan |
 
 ## Tools
 
