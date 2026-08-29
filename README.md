@@ -26,7 +26,7 @@ Lihat [studi kasus lengkap](https://docs.google.com/document/d/1CSIrcAiFEJiRiMFC
 | `raw/retail_sales_dataset.csv` | Dataset mentah asli (±4.310 baris, sengaja dibuat "kotor") |
 | `sql/01_data_cleaning.sql` | Pipeline pembersihan data: parsing tanggal, dedup, penanganan outlier, imputasi |
 | `sql/02_sales_analysis.sql` | Query analisis utama (revenue, margin, tier diskon, return rate) |
-| Dashboard Looker Studio | Dashboard interaktif — filter berdasarkan tanggal, wilayah, kategori, metode pembayaran |
+| Dashboard Looker Studio | Dashboard interaktif. Filter berdasarkan tanggal, wilayah, kategori, metode pembayaran |
 | Dokumen studi kasus | Laporan lengkap: rumusan masalah, proses pembersihan data, temuan, rekomendasi, keterbatasan |
 
 ## Tools
@@ -37,7 +37,7 @@ Lihat [studi kasus lengkap](https://docs.google.com/document/d/1CSIrcAiFEJiRiMFC
 
 ## Catatan Kualitas Data
 
-Dataset mentah memiliki format tanggal yang tidak konsisten, penulisan kategori yang bervariasi, order_id duplikat, nilai negatif/sentinel yang tidak valid, dan data kosong — seluruhnya diidentifikasi dan diselesaikan sebagai bagian dari project ini. Detail lengkap ada di dokumen studi kasus, Bagian 3 (Proses Pembersihan Data).
+Dataset mentah memiliki format tanggal yang tidak konsisten, penulisan kategori yang bervariasi, order_id duplikat, nilai negatif/sentinel yang tidak valid, dan data kosong seluruhnya diidentifikasi dan diselesaikan sebagai bagian dari project ini. Detail lengkap ada di dokumen studi kasus, Bagian 3 (Proses Pembersihan Data).
 
 ## Penulis
 
